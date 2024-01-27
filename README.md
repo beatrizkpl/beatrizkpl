@@ -1,4 +1,4 @@
-## Bem-vindo(a) 😁
+## Bem-vindo 😁
 
  <div>
    <a href="https://github.com/beatrizkpl">
